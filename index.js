@@ -30,4 +30,4 @@ const pollOptions = {
   bot.sendPoll(chatId, question,answers,pollOptions);
 }
 
-setInterval(sendQuestion,  5000); 
+setInterval(sendQuestion, 18000000); 
