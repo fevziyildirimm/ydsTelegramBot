@@ -10,13 +10,14 @@ function getRandomQuestion() {
   const randomIndex = Math.floor(Math.random() * questions.length);
   return questions[randomIndex];
 }
-const scheduledMessage = schedule.scheduleJob('*/30 * * * *', () => { //schedule her yarım saatte bir çalışacak sekilde ayarlandı.
+const scheduledMessage = schedule.scheduleJob('*/30 * * * *', async() => { //schedule her yarım saatte bir çalışacak sekilde ayarlandı.
   for (let index = 0; index < 10; index++) {
+    await sleep(1500);
     sendQuestion();
   }
 });
 
-function sendQuestion() {
+  function  sendQuestion() {
   const chatId = process.env.CHAT_ID;
   const { question, options, answer } = getRandomQuestion();
   const answers = [getRandomQuestion().options, getRandomQuestion().options];
@@ -31,11 +32,12 @@ function sendQuestion() {
     correct_option_id: index,
     type: "quiz"
   };
+
   bot.sendPoll(chatId, question, answers, pollOptions);
 }
 
 
-bot.onText(/\/soru/, (msg) => {
+bot.onText(/\/soru/, async (msg) => {
   for (let index = 0; index < 10; index++) {
     const { question, options, answer } = getRandomQuestion();
     const answers = [getRandomQuestion().options, getRandomQuestion().options];
@@ -47,8 +49,15 @@ bot.onText(/\/soru/, (msg) => {
       correct_option_id: index,
       type: "quiz"
     };
+    await sleep(1500);
 
 
     bot.sendPoll(msg.chat.id, question, answers, pollOptions);
   }
+  
 });
+function sleep(ms) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms);
+  });
+}
