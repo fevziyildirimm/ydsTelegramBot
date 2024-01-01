@@ -1,8 +1,16 @@
 require('dotenv').config();
 const TelegramBot = require('node-telegram-bot-api');
 const schedule = require('node-schedule');
+const express=require('express')
 const fs = require('fs');
-
+const app=express();
+app.use(express.json());
+app.get("/",(req,res)=>{
+  res.send("running")
+})
+app.listen(process.env.PORT||3000,()=>{
+  console.log("server running");
+})
 const bot = new TelegramBot(process.env.API_TOKEN, { polling: true });
 
 function getRandomQuestion() {
