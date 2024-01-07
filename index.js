@@ -18,7 +18,7 @@ function getRandomQuestion() {
   const randomIndex = Math.floor(Math.random() * questions.length);
   return questions[randomIndex];
 }
-const scheduledMessage = schedule.scheduleJob('*/30 * * * *', async() => { //schedule her yarım saatte bir çalışacak sekilde ayarlandı.
+const scheduledMessage = schedule.scheduleJob('*/30 10-22 * * *', async() => { //schedule her yarım saatte bir çalışacak sekilde ayarlandı.
   for (let index = 0; index < 10; index++) {
     await sleep(1500);
     sendQuestion();
@@ -63,6 +63,14 @@ bot.onText(/\/soru/, async (msg) => {
     bot.sendPoll(msg.chat.id, question, answers, pollOptions);
   }
   
+});
+
+
+const scheduledMessageNight = schedule.scheduleJob('1 22 * * *', async() => { 
+  const chatId = process.env.CHAT_ID;
+
+  bot.sendMessage(chatId, 'Gece modu Başlangıcı 🌕. Bot 10:00 a kadar devre dışı.Çalışmak isteyen arkadaşlar bota  /soru komutunu vererek calısabilirler. İyi geceler... 🖖🏻')
+
 });
 function sleep(ms) {
   return new Promise((resolve) => {
