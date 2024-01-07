@@ -1,6 +1,7 @@
 require('dotenv').config();
 const TelegramBot = require('node-telegram-bot-api');
 const schedule = require('node-schedule');
+const moment = require('moment-timezone');
 const express=require('express')
 const fs = require('fs');
 const app=express();
@@ -19,6 +20,10 @@ function getRandomQuestion() {
   return questions[randomIndex];
 }
 const scheduledMessage = schedule.scheduleJob('*/30 10-22 * * *', async() => { //schedule her yarım saatte bir çalışacak sekilde ayarlandı.
+  const currentTime = moment().tz('Europe/Istanbul').format('HH:mm:ss');
+  if (currentTime <= '09:59:00' || currentTime >= '22:01:00') {
+  return;
+  }
   for (let index = 0; index < 10; index++) {
     await sleep(1500);
     sendQuestion();
