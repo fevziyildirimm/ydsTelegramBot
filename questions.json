@@ -121,7 +121,7 @@
     },
     {
         "question": "Ambitious",
-        "options": "Hirsh"
+        "options": "Hirs"
     },
     {
         "question": "Ample",
@@ -1646,5 +1646,1625 @@
     {
         "question": "Hypothetical",
         "options": "Varsayima dayanan, farazi"
+    },
+    {
+        "question": "Initial",
+        "options": "ilk, birinci"
+    },
+    {
+        "question": "Innate",
+        "options": "Dogustan"
+    },
+    {
+        "question": "Innocent",
+        "options": "Masum"
+    },
+    {
+        "question": "Innovative",
+        "options": "Yenilikci"
+    },
+    {
+        "question": "Innumerable",
+        "options": "Sayisiz"
+    },
+    {
+        "question": "Insane",
+        "options": "Deli, cildirmis"
+    },
+    {
+        "question": "Insensitive to",
+        "options": "-e duyarsiz"
+    },
+    {
+        "question": "Instant",
+        "options": "Ani, anlik"
+    },
+    {
+        "question": "Instantaneous",
+        "options": "Bir anda olan, sipsak"
+    },
+    {
+        "question": "Intellectual",
+        "options": "Entelektüel"
+    },
+    {
+        "question": "Intentional",
+        "options": "Kasti, maksatli"
+    },
+    {
+        "question": "Interim",
+        "options": "Geçici"
+    },
+    {
+        "question": "Intricate",
+        "options": "Karisik, dolambacli"
+    },
+    {
+        "question": "Invalid",
+        "options": "Geçersiz"
+    },
+    {
+        "question": "Invaluable",
+        "options": "Çok degerli"
+    },
+    {
+        "question": "Inventive",
+        "options": "Yaratici"
+    },
+    {
+        "question": "Invincible",
+        "options": "Yenilmez"
+    },
+    {
+        "question": "Irrelevant",
+        "options": "Alakasiz"
+    },
+    {
+        "question": "Irreplaceable",
+        "options": "Yeri doldurulmaz"
+    },
+    {
+        "question": "Joint",
+        "options": "Ortaklaa"
+    },
+    {
+        "question": "Jubilant",
+        "options": "Sevincten cosmus"
+    },
+    {
+        "question": "Keen",
+        "options": "Hevesli"
+    },
+    {
+        "question": "Keen on",
+        "options": "Merakli"
+    },
+    {
+        "question": "Lacking",
+        "options": "Yoksun, eksik"
+    },
+    {
+        "question": "Large",
+        "options": "Buyuk, genis"
+    },
+    {
+        "question": "Large-scale",
+        "options": "Buyuk ölcekli"
+    },
+    {
+        "question": "Lasting",
+        "options": "Kalici, dayanikli"
+    },
+    {
+        "question": "Latest",
+        "options": "En son"
+    },
+    {
+        "question": "Legal",
+        "options": "Yasal"
+    },
+    {
+        "question": "Legitimate",
+        "options": "Meçru"
+    },
+    {
+        "question": "Lengthened",
+        "options": "Uzatilmis"
+    },
+    {
+        "question": "Lengthy",
+        "options": "Uzun, asiri uzun"
+    },
+    {
+        "question": "Lessening",
+        "options": "Azalan"
+    },
+    {
+        "question": "Lethal",
+        "options": "Ölumcul"
+    },
+    {
+        "question": "Liable",
+        "options": "Sorumlu"
+    },
+    {
+        "question": "Like",
+        "options": "Benzer, gibi"
+    },
+    {
+        "question": "Likely to",
+        "options": "Olasi"
+    },
+    {
+        "question": "Linked",
+        "options": "Baglantili"
+    },
+    {
+        "question": "Little",
+        "options": "Kücuk, çok az"
+    },
+    {
+        "question": "Lively",
+        "options": "Canli, hayat dolu"
+    },
+    {
+        "question": "Local",
+        "options": "Yerel"
+    },
+    {
+        "question": "Logical",
+        "options": "Mantikli"
+    },
+    {
+        "question": "Long",
+        "options": "Uzun"
+    },
+    {
+        "question": "Long-term",
+        "options": "Uzun vadeli"
+    },
+    {
+        "question": "Lucid",
+        "options": "effaf, kolay anlasilir"
+    },
+    {
+        "question": "Lucrative",
+        "options": "Karli"
+    },
+    {
+        "question": "Luminous",
+        "options": "Parlak, isik yayan"
+    },
+    {
+        "question": "Mad",
+        "options": "Çılgın"
+    },
+    {
+        "question": "Magnificent",
+        "options": "Muhteşem"
+    },
+    {
+        "question": "Main",
+        "options": "Ana, baslica"
+    },
+    {
+        "question": "Mainstream",
+        "options": "Ana akim, ana görüs"
+    },
+    {
+        "question": "Major",
+        "options": "Baslica, önemli"
+    },
+    {
+        "question": "Malevolent",
+        "options": "Hain, kötu niyetli"
+    },
+    {
+        "question": "Malfunctioning",
+        "options": "Bozuk, arizali"
+    },
+    {
+        "question": "Malicious",
+        "options": "Hain, kötü niyetli"
+    },
+    {
+        "question": "Malignant",
+        "options": "Kötü huylu"
+    },
+    {
+        "question": "Malleable",
+        "options": "Kolayca etki edilebilir"
+    },
+    {
+        "question": "Mandatory",
+        "options": "Zorunlu"
+    },
+    {
+        "question": "Marked",
+        "options": "isaretli, göze carpan"
+    },
+    {
+        "question": "Marketable",
+        "options": "Pazarlanabilir, satiça hazir"
+    },
+    {
+        "question": "Massive",
+        "options": "Muazzam, etkili"
+    },
+    {
+        "question": "Matching",
+        "options": "Esit, denk"
+    },
+    {
+        "question": "Meager",
+        "options": "Zayif, hafif"
+    },
+    {
+        "question": "Mental",
+        "options": "Zihinsel"
+    },
+    {
+        "question": "Merciless",
+        "options": "Acimasiz"
+    },
+    {
+        "question": "Meticulous",
+        "options": "Titiz, kili kirk yaran"
+    },
+    {
+        "question": "Mighty",
+        "options": "Ulu, yuce"
+    },
+    {
+        "question": "Mild",
+        "options": "Hafif, yumuak"
+    },
+    {
+        "question": "Mindful",
+        "options": "Dikkatli, duunceli"
+    },
+    {
+        "question": "Minor",
+        "options": "Önemsiz, kücuk"
+    },
+    {
+        "question": "Miscellaneous",
+        "options": "Cesitli, muhtelif"
+    },
+    {
+        "question": "Misleading",
+        "options": "Yanli yönlendiren"
+    },
+    {
+        "question": "Mismatched",
+        "options": "Uyumsuz"
+    },
+    {
+        "question": "Mocking",
+        "options": "Alayci"
+    },
+    {
+        "question": "Moderate",
+        "options": "Makul, ilimli"
+    },
+    {
+        "question": "Modern",
+        "options": "Modern"
+    },
+    {
+        "question": "Modest",
+        "options": "Mütevazi"
+    },
+    {
+        "question": "Momentary",
+        "options": "Anlik, geçici"
+    },
+    {
+        "question": "Mortal",
+        "options": "Ölumlü, ölümcul"
+    },
+    {
+        "question": "Motivated",
+        "options": "Motive, hevesli"
+    },
+    {
+        "question": "Mutual",
+        "options": "Karsilikli"
+    },
+    {
+        "question": "Narrow",
+        "options": "Dar"
+    },
+    {
+        "question": "Native",
+        "options": "Yerli"
+    },
+    {
+        "question": "Natural",
+        "options": "Dogal"
+    },
+    {
+        "question": "Near",
+        "options": "Yakin"
+    },
+    {
+        "question": "Nearby",
+        "options": "Yakininda"
+    },
+    {
+        "question": "Necessary",
+        "options": "Gerekli"
+    },
+    {
+        "question": "Negative",
+        "options": "Olumsuz"
+    },
+    {
+        "question": "Neglecting",
+        "options": "Ihmalkân"
+    },
+    {
+        "question": "Negligible",
+        "options": "Az, göz ardi edilebilir"
+    },
+    {
+        "question": "Nervous",
+        "options": "Gergin"
+    },
+    {
+        "question": "Neutral",
+        "options": "Tarafsiz"
+    },
+    {
+        "question": "New",
+        "options": "Yeni"
+    },
+    {
+        "question": "Noble",
+        "options": "Soylu"
+    },
+    {
+        "question": "Non-existing",
+        "options": "Var olmayan"
+    },
+    {
+        "question": "Non-Stop",
+        "options": "Durmaksizin"
+    },
+    {
+        "question": "Not real",
+        "options": "Gerçek di"
+    },
+    {
+        "question": "Notable",
+        "options": "Dikkate deger, önde gelen"
+    },
+    {
+        "question": "Notable for",
+        "options": "ile ünlü"
+    },
+    {
+        "question": "Noteworthy",
+        "options": "Kayda deger"
+    },
+    {
+        "question": "Notional",
+        "options": "Teorik"
+    },
+    {
+        "question": "Notorious for",
+        "options": "ile kötü üne sahip"
+    },
+    {
+        "question": "Novel",
+        "options": "Yeni, yenilikci"
+    },
+    {
+        "question": "Null",
+        "options": "Geçersiz"
+    },
+    {
+        "question": "Numerous",
+        "options": "Sayisiz"
+    },
+    {
+        "question": "Visible",
+        "options": "Görünür"
+    },
+    {
+        "question": "Vital",
+        "options": "Hayati"
+    },
+    {
+        "question": "Vivid",
+        "options": "Canli, renkli"
+    },
+    {
+        "question": "Void",
+        "options": "Geçersiz, bos"
+    },
+    {
+        "question": "Volatile",
+        "options": "Uçucu, degisken"
+    },
+    {
+        "question": "Vulnerable",
+        "options": "Hassas, kirilgan"
+    },
+    {
+        "question": "Vulnerable to",
+        "options": "-den kolay etkilenen"
+    },
+    {
+        "question": "Wasteful",
+        "options": "Savurgan"
+    },
+    {
+        "question": "Watchful",
+        "options": "Uyanik, tetikte"
+    },
+    {
+        "question": "Waterless",
+        "options": "Susuz"
+    },
+    {
+        "question": "Weak",
+        "options": "Zayif"
+    },
+    {
+        "question": "Wealthy",
+        "options": "Zengin"
+    },
+    {
+        "question": "Weighty",
+        "options": "itibarli, agir"
+    },
+    {
+        "question": "Weird",
+        "options": "Tuhaf, acayip"
+    },
+    {
+        "question": "Well-known for",
+        "options": "ile ünlu"
+    },
+    {
+        "question": "Wicked",
+        "options": "Kötü, hinzir"
+    },
+    {
+        "question": "Wide",
+        "options": "Geni"
+    },
+    {
+        "question": "Wide-ranging",
+        "options": "Genis kapsamli"
+    },
+    {
+        "question": "Widespread",
+        "options": "Yaygin"
+    },
+    {
+        "question": "Willing to",
+        "options": "Istekli"
+    },
+    {
+        "question": "Wise",
+        "options": "Bilge, akilli"
+    },
+    {
+        "question": "Wonderful",
+        "options": "Harika"
+    },
+    {
+        "question": "Worldly",
+        "options": "Dünyevi"
+    },
+    {
+        "question": "Worried",
+        "options": "Endigeli"
+    },
+    {
+        "question": "Worrisome",
+        "options": "Endise verici"
+    },
+    {
+        "question": "Objective",
+        "options": "Nesnel, tarafsiz"
+    },
+    {
+        "question": "Obligatory",
+        "options": "Zorunlu"
+    },
+    {
+        "question": "Obscure",
+        "options": "Muglak"
+    },
+    {
+        "question": "Obsolete",
+        "options": "Demode olmus"
+    },
+    {
+        "question": "Obstructive",
+        "options": "Engelleyici"
+    },
+    {
+        "question": "Obvious",
+        "options": "Bariz, açik"
+    },
+    {
+        "question": "Odd",
+        "options": "Tuhaf, acayip"
+    },
+    {
+        "question": "Old",
+        "options": "Eski"
+    },
+    {
+        "question": "On purpose",
+        "options": "Kasten"
+    },
+    {
+        "question": "On the brink of",
+        "options": "Kiyisinda, -mek üzere"
+    },
+    {
+        "question": "On the edge of",
+        "options": "-mek üzere"
+    },
+    {
+        "question": "On the verge of",
+        "options": "Esiginde, -mek üzere"
+    },
+    {
+        "question": "Ongoing",
+        "options": "Devam eden, süregelen"
+    },
+    {
+        "question": "Opaque",
+        "options": "Şeffaf olmayan,"
+    },
+    {
+        "question": "Open",
+        "options": "AçIK"
+    },
+    {
+        "question": "Open to sth",
+        "options": "-e açik olmak"
+    },
+    {
+        "question": "Opposing",
+        "options": "Karsi, muhalif"
+    },
+    {
+        "question": "Optimistic",
+        "options": "lyimser"
+    },
+    {
+        "question": "Original",
+        "options": "Orijinal"
+    },
+    {
+        "question": "Ostentatious",
+        "options": "Gösterisli"
+    },
+    {
+        "question": "Out of order",
+        "options": "Bozuk"
+    },
+    {
+        "question": "Out of service",
+        "options": "Hizmet digi"
+    },
+    {
+        "question": "Outstanding",
+        "options": "Önemli, göze çarpan"
+    },
+    {
+        "question": "Overdue",
+        "options": "Vadesi geçmis"
+    },
+    {
+        "question": "Overgenerous",
+        "options": "çok cömert"
+    },
+    {
+        "question": "Overlooking",
+        "options": "Nazir, hakim"
+    },
+    {
+        "question": "Overwhelming",
+        "options": "Muazzam, ezici"
+    },
+    {
+        "question": "Paltry",
+        "options": "Degersiz"
+    },
+    {
+        "question": "Paramount",
+        "options": "Üstün, fevkalade"
+    },
+    {
+        "question": "Partial",
+        "options": "Tarafli"
+    },
+    {
+        "question": "Peculiar",
+        "options": "Tuhaf, özgü"
+    },
+    {
+        "question": "Penniless",
+        "options": "Parasiz, çulsuz"
+    },
+    {
+        "question": "Perilous",
+        "options": "Tehlikeli"
+    },
+    {
+        "question": "Permanent",
+        "options": "Kalici"
+    },
+    {
+        "question": "Perplexed",
+        "options": "Sasirmis"
+    },
+    {
+        "question": "Perplexing",
+        "options": "Sasirtici"
+    },
+    {
+        "question": "Persistent",
+        "options": "InatçI, Israrci"
+    },
+    {
+        "question": "Personal",
+        "options": "Kisisel"
+    },
+    {
+        "question": "Persuasive",
+        "options": "ikna edici"
+    },
+    {
+        "question": "Pessimistic",
+        "options": "Kötümser"
+    },
+    {
+        "question": "Physical",
+        "options": "Fiziksel"
+    },
+    {
+        "question": "Picturesque",
+        "options": "Güzel, etkili"
+    },
+    {
+        "question": "Plain",
+        "options": "Düz, sade"
+    },
+    {
+        "question": "Plausible",
+        "options": "Akla yatkin"
+    },
+    {
+        "question": "Pleased",
+        "options": "Memnun"
+    },
+    {
+        "question": "Plentiful",
+        "options": "Bol miktarda"
+    },
+    {
+        "question": "Plenty",
+        "options": "çok, bol"
+    },
+    {
+        "question": "Pointless",
+        "options": "Manasiz, anlamsiz"
+    },
+    {
+        "question": "Polite",
+        "options": "Kibar"
+    },
+    {
+        "question": "Poor",
+        "options": "Fakir, zavalli"
+    },
+    {
+        "question": "Popular",
+        "options": "Ünlü, yaygin"
+    },
+    {
+        "question": "Positive",
+        "options": "Olumlu"
+    },
+    {
+        "question": "Possible",
+        "options": "Olasi"
+    },
+    {
+        "question": "Potential",
+        "options": "Olmasi muhtemel"
+    },
+    {
+        "question": "Powerful",
+        "options": "Güclü, nüfuzlu"
+    },
+    {
+        "question": "Practical",
+        "options": "Pratik, uygulanabilir"
+    },
+    {
+        "question": "Preceding",
+        "options": "Önceki"
+    },
+    {
+        "question": "Precious",
+        "options": "Degerli, kiymetli"
+    },
+    {
+        "question": "Preconditioned",
+        "options": "Sartlanmis"
+    },
+    {
+        "question": "Prejudiced",
+        "options": "Önyargili"
+    },
+    {
+        "question": "Preliminary",
+        "options": "Kabataslak, ilk"
+    },
+    {
+        "question": "Premier",
+        "options": "Asil, birinci"
+    },
+    {
+        "question": "Pretentious",
+        "options": "iddiali, gösterisci"
+    },
+    {
+        "question": "Prevailing",
+        "options": "Hakim"
+    },
+    {
+        "question": "Prevalent",
+        "options": "Yaygin"
+    },
+    {
+        "question": "Previous",
+        "options": "Önceki"
+    },
+    {
+        "question": "Priceless",
+        "options": "Paha bicilmez"
+    },
+    {
+        "question": "Primal",
+        "options": "ilk, esas"
+    },
+    {
+        "question": "Primary",
+        "options": "Öncelikli"
+    },
+    {
+        "question": "Primitive",
+        "options": "llkel"
+    },
+    {
+        "question": "Prior",
+        "options": "Önceki"
+    },
+    {
+        "question": "Probable",
+        "options": "Muhtemel"
+    },
+    {
+        "question": "Problematic",
+        "options": "Sorunlu"
+    },
+    {
+        "question": "Productive",
+        "options": "Üretken"
+    },
+    {
+        "question": "Proficient",
+        "options": "Yetkin"
+    },
+    {
+        "question": "Profit making",
+        "options": "Kar getiren"
+    },
+    {
+        "question": "Profitable",
+        "options": "Karli"
+    },
+    {
+        "question": "Profound",
+        "options": "Muazzam"
+    },
+    {
+        "question": "Prolific",
+        "options": "Üretken"
+    },
+    {
+        "question": "Prolonged",
+        "options": "Uzayan, uzun süren"
+    },
+    {
+        "question": "Prominent",
+        "options": "Önde gelen"
+    },
+    {
+        "question": "Promising",
+        "options": "Ümit vaat eden"
+    },
+    {
+        "question": "Prompt",
+        "options": "Dakik, acele"
+    },
+    {
+        "question": "Prone to",
+        "options": "-e yatkin"
+    },
+    {
+        "question": "Sophisticated",
+        "options": "Gelismis, karmasik"
+    },
+    {
+        "question": "Sound",
+        "options": "Saglikli, saglam"
+    },
+    {
+        "question": "Sparse",
+        "options": "Seyrek, kit"
+    },
+    {
+        "question": "Spectacular",
+        "options": "Göz kamastirici"
+    },
+    {
+        "question": "Speedy",
+        "options": "Süratli, çabuk"
+    },
+    {
+        "question": "Spoiled",
+        "options": "Cürük, bozuk"
+    },
+    {
+        "question": "Stable",
+        "options": "Sabit, istikrarli"
+    },
+    {
+        "question": "Steady",
+        "options": "istikrarli"
+    },
+    {
+        "question": "Steep",
+        "options": "Dik, asiri"
+    },
+    {
+        "question": "Step by step",
+        "options": "Agama agama"
+    },
+    {
+        "question": "Straightforward",
+        "options": "Dogrudan, dobra"
+    },
+    {
+        "question": "Strange",
+        "options": "Tuhaf, acayip"
+    },
+    {
+        "question": "Striking",
+        "options": "Göze çarpan"
+    },
+    {
+        "question": "Strong",
+        "options": "Kuvvetli"
+    },
+    {
+        "question": "Stunning",
+        "options": "Bas döndürücu"
+    },
+    {
+        "question": "Subjective",
+        "options": "Yanli, öznel"
+    },
+    {
+        "question": "Substantial",
+        "options": "Önemli, degerli"
+    },
+    {
+        "question": "Subtle",
+        "options": "Ince, kurnaz"
+    },
+    {
+        "question": "Successful",
+        "options": "Basarili"
+    },
+    {
+        "question": "Successive",
+        "options": "Ardisik"
+    },
+    {
+        "question": "Sudden",
+        "options": "Ani"
+    },
+    {
+        "question": "Sufficient",
+        "options": "Yeterli"
+    },
+    {
+        "question": "Suitable",
+        "options": "Uygun"
+    },
+    {
+        "question": "Susceptible to",
+        "options": "Kolay etkilenen, yatkin"
+    },
+    {
+        "question": "Suspicious",
+        "options": "Supheli"
+    },
+    {
+        "question": "Swift",
+        "options": "Süratli, cevik"
+    },
+    {
+        "question": "Sympathetic",
+        "options": "Sempatik, sevgi ve acima belirten"
+    },
+    {
+        "question": "Synonymous",
+        "options": "Es anlamli"
+    },
+    {
+        "question": "Synthetic",
+        "options": "Sentetik, suni"
+    },
+    {
+        "question": "Sentenced",
+        "options": "Mahkûm olmus"
+    },
+    {
+        "question": "Separate",
+        "options": "Ayri"
+    },
+    {
+        "question": "Serious",
+        "options": "Ciddi"
+    },
+    {
+        "question": "Settled",
+        "options": "Sabit, yerlesik"
+    },
+    {
+        "question": "Severe",
+        "options": "Ciddi"
+    },
+    {
+        "question": "Shallow",
+        "options": "Sig"
+    },
+    {
+        "question": "Shameful",
+        "options": "Utanç verici"
+    },
+    {
+        "question": "Sharp",
+        "options": "Keskin"
+    },
+    {
+        "question": "Shining",
+        "options": "Parildayan"
+    },
+    {
+        "question": "Short",
+        "options": "Kisa"
+    },
+    {
+        "question": "Short of",
+        "options": "Eksik olmak"
+    },
+    {
+        "question": "Short-term",
+        "options": "Kisa vadeli"
+    },
+    {
+        "question": "Showy",
+        "options": "Gösterisli"
+    },
+    {
+        "question": "Shrinking",
+        "options": "Küculen, daralan"
+    },
+    {
+        "question": "Significant",
+        "options": "Mühim"
+    },
+    {
+        "question": "Similar",
+        "options": "Benzer"
+    },
+    {
+        "question": "Simple",
+        "options": "Basit"
+    },
+    {
+        "question": "Single",
+        "options": "Tek, bekãr"
+    },
+    {
+        "question": "Skillful",
+        "options": "Usta, hünerli"
+    },
+    {
+        "question": "Skilled",
+        "options": "Vasifli"
+    },
+    {
+        "question": "Slight",
+        "options": "Hafif, zayif, ince"
+    },
+    {
+        "question": "Slim",
+        "options": "Zayif, ince"
+    },
+    {
+        "question": "Slow",
+        "options": "Yava"
+    },
+    {
+        "question": "Sluggish",
+        "options": "Agirkanli"
+    },
+    {
+        "question": "Small",
+        "options": "Kücuk"
+    },
+    {
+        "question": "Smart",
+        "options": "Zeki"
+    },
+    {
+        "question": "Soaring",
+        "options": "Artan, yukselen"
+    },
+    {
+        "question": "Solid",
+        "options": "Kati, saglam"
+    },
+    {
+        "question": "Somatic",
+        "options": "Bedensel, bedene ait"
+    },
+    {
+        "question": "Ultimate",
+        "options": "Nihai,Son"
+    },
+    {
+        "question": "Talented",
+        "options": "Yetenekli"
+    },
+    {
+        "question": "Tall",
+        "options": "Uzun"
+    },
+    {
+        "question": "Tangible",
+        "options": "Somut, elle tutulur"
+    },
+    {
+        "question": "Temporary",
+        "options": "Geçici"
+    },
+    {
+        "question": "Tender",
+        "options": "Yumuak, sefkatli"
+    },
+    {
+        "question": "Tense",
+        "options": "Gergin"
+    },
+    {
+        "question": "Terminal",
+        "options": "Ölumcul"
+    },
+    {
+        "question": "Terrestrial",
+        "options": "Karasal, yeryuzune ait"
+    },
+    {
+        "question": "Terrible",
+        "options": "Berbat, korkunç"
+    },
+    {
+        "question": "The same",
+        "options": "Ayni"
+    },
+    {
+        "question": "Theoretical",
+        "options": "Kuramsal"
+    },
+    {
+        "question": "Thick",
+        "options": "Kalin, budala"
+    },
+    {
+        "question": "Thoughtless",
+        "options": "Düsuncesiz"
+    },
+    {
+        "question": "Thrilling",
+        "options": "Heyecanli"
+    },
+    {
+        "question": "Thriving",
+        "options": "Gelien"
+    },
+    {
+        "question": "Timely",
+        "options": "Uygun, yerinde"
+    },
+    {
+        "question": "Tiny",
+        "options": "Minicik"
+    },
+    {
+        "question": "Tough",
+        "options": "Sert, çetin"
+    },
+    {
+        "question": "Traditional",
+        "options": "Geleneksel"
+    },
+    {
+        "question": "Transparent",
+        "options": "effaf"
+    },
+    {
+        "question": "Treacherous",
+        "options": "Hain, tehlikeli"
+    },
+    {
+        "question": "Tremendous",
+        "options": "Muazzam, çok buyuk"
+    },
+    {
+        "question": "Tricky",
+        "options": "Hilekâr, ustalik isteyen"
+    },
+    {
+        "question": "Trustworthy",
+        "options": "Güvenilir"
+    },
+    {
+        "question": "Twin",
+        "options": "ikiz"
+    },
+    {
+        "question": "Unanimous",
+        "options": "Oy birligiyle"
+    },
+    {
+        "question": "Unavoidable",
+        "options": "Kacinilmaz"
+    },
+    {
+        "question": "Unbeatable",
+        "options": "Yenilmez"
+    },
+    {
+        "question": "Unbelievable",
+        "options": "inanilmaz"
+    },
+    {
+        "question": "Unbiased",
+        "options": "Tarafsiz"
+    },
+    {
+        "question": "Uncertain",
+        "options": "Belirsiz"
+    },
+    {
+        "question": "Unclear",
+        "options": "AçIK olmayan"
+    },
+    {
+        "question": "Uncomplicated",
+        "options": "Karisik olmayan"
+    },
+    {
+        "question": "Unconcerned",
+        "options": "Umursamaz"
+    },
+    {
+        "question": "Underfunded",
+        "options": "Yetersiz bütceli"
+    },
+    {
+        "question": "Undermining",
+        "options": "Zayiflatan, ayagini kaydiran"
+    },
+    {
+        "question": "Unfamiliar",
+        "options": "Yabanci"
+    },
+    {
+        "question": "Unfavourable",
+        "options": "Olumsuz, sakincali"
+    },
+    {
+        "question": "Unfeasible",
+        "options": "Uygulanamaz"
+    },
+    {
+        "question": "Uniform",
+        "options": "Bir örnek, ayni"
+    },
+    {
+        "question": "Unintended",
+        "options": "Kasitsiz"
+    },
+    {
+        "question": "Uninterrupted",
+        "options": "Kesintisiz"
+    },
+    {
+        "question": "Unique",
+        "options": "Tek, yegâne"
+    },
+    {
+        "question": "Universal",
+        "options": "Genel, evrensel"
+    },
+    {
+        "question": "Unlikely",
+        "options": "Intimal dâhilinde olmayan"
+    },
+    {
+        "question": "Unlimited",
+        "options": "Sinirsiz"
+    },
+    {
+        "question": "Unmixed",
+        "options": "Saf"
+    },
+    {
+        "question": "Unprecedented",
+        "options": "Daha önceden görülmemis"
+    },
+    {
+        "question": "Unprejudiced",
+        "options": "Önyargisiz"
+    },
+    {
+        "question": "Unreal",
+        "options": "Gerçek di"
+    },
+    {
+        "question": "Unrelated",
+        "options": "Alakasiz"
+    },
+    {
+        "question": "Unsafe",
+        "options": "Güvensiz, emniyetsiz"
+    },
+    {
+        "question": "Unstable",
+        "options": "Istikrarsiz"
+    },
+    {
+        "question": "Unsteady",
+        "options": "Istikrarsiz"
+    },
+    {
+        "question": "Unsuited",
+        "options": "Uygun olmayan"
+    },
+    {
+        "question": "Unsure",
+        "options": "Emin olmayan"
+    },
+    {
+        "question": "Untouched by",
+        "options": "Dokunulmamis"
+    },
+    {
+        "question": "Unusual",
+        "options": "Sira disi"
+    },
+    {
+        "question": "Unwanted",
+        "options": "Istenmeyen"
+    },
+    {
+        "question": "Unwilling",
+        "options": "isteksiz, gönülsüz"
+    },
+    {
+        "question": "Upset",
+        "options": "Üzgün"
+    },
+    {
+        "question": "Upsetting",
+        "options": "Uzucu"
+    },
+    {
+        "question": "Up-to-date",
+        "options": "Güncel"
+    },
+    {
+        "question": "Urgent",
+        "options": "Acil"
+    },
+    {
+        "question": "Useful",
+        "options": "Yararli"
+    },
+    {
+        "question": "Useless",
+        "options": "Yararsiz"
+    },
+    {
+        "question": "Usual",
+        "options": "Olagan, alisilmis"
+    },
+    {
+        "question": "Vacant",
+        "options": "Bos, müsait"
+    },
+    {
+        "question": "Vague",
+        "options": "Muglak, bos"
+    },
+    {
+        "question": "Vain",
+        "options": "Bouu boçuna"
+    },
+    {
+        "question": "Valid",
+        "options": "Geçerli"
+    },
+    {
+        "question": "Valuable",
+        "options": "Degerli"
+    },
+    {
+        "question": "Varied",
+        "options": "Cesitli"
+    },
+    {
+        "question": "Various",
+        "options": "Cesitli"
+    },
+    {
+        "question": "Vast",
+        "options": "Uçsuz bucaksiz"
+    },
+    {
+        "question": "Versatile",
+        "options": "Çok yönlii, hamarat"
+    },
+    {
+        "question": "Vertical",
+        "options": "Dikey"
+    },
+    {
+        "question": "Viable",
+        "options": "Uygun, geçerli"
+    },
+    {
+        "question": "Vibrant",
+        "options": "Canli"
+    },
+    {
+        "question": "Vigorous",
+        "options": "Kuvvetli, saglikli"
+    },
+    {
+        "question": "Virtual",
+        "options": "Sanal"
+    },
+    {
+        "question": "Relevant",
+        "options": "lliskili"
+    },
+    {
+        "question": "Reliable",
+        "options": "Güvenilir"
+    },
+    {
+        "question": "Reluctant",
+        "options": "Gönülsüz"
+    },
+    {
+        "question": "Remarkable",
+        "options": "Kayda deger"
+    },
+    {
+        "question": "Remote",
+        "options": "Uzak"
+    },
+    {
+        "question": "Renowned for",
+        "options": "ile ünlü"
+    },
+    {
+        "question": "Required",
+        "options": "Gerekli"
+    },
+    {
+        "question": "Resembling",
+        "options": "Andiran"
+    },
+    {
+        "question": "Resilient",
+        "options": "Esnek"
+    },
+    {
+        "question": "Responsible",
+        "options": "Sorumlu"
+    },
+    {
+        "question": "Rich",
+        "options": "Zengin"
+    },
+    {
+        "question": "Ridiculous",
+        "options": "Gülünç, saçma"
+    },
+    {
+        "question": "Right",
+        "options": "Dogru, hakli"
+    },
+    {
+        "question": "Rigid",
+        "options": "Kati, sert"
+    },
+    {
+        "question": "Risky",
+        "options": "Tehlikeli"
+    },
+    {
+        "question": "Robust",
+        "options": "Saglam, gürbüz"
+    },
+    {
+        "question": "Royal",
+        "options": "Krala ait, çok büyuk"
+    },
+    {
+        "question": "Ruthless",
+        "options": "Zalim, acimasiz"
+    },
+    {
+        "question": "Sad",
+        "options": "Üzgün"
+    },
+    {
+        "question": "Same",
+        "options": "Ayni"
+    },
+    {
+        "question": "Satirizing Satisfactory",
+        "options": "Taslayici, alayci Tatminkâr"
+    },
+    {
+        "question": "Satisfying",
+        "options": "Tatmin edici"
+    },
+    {
+        "question": "Scarce",
+        "options": "Kit, az, seyrek"
+    },
+    {
+        "question": "Scary",
+        "options": "Korkutucu"
+    },
+    {
+        "question": "Scornful",
+        "options": "Kücuk gören"
+    },
+    {
+        "question": "Sedentary",
+        "options": "Yerlesik"
+    },
+    {
+        "question": "Prosperous",
+        "options": "Zengin"
+    },
+    {
+        "question": "Proximate",
+        "options": "En yakin"
+    },
+    {
+        "question": "Psychological",
+        "options": "Psikolojik"
+    },
+    {
+        "question": "Public",
+        "options": "Halka açik"
+    },
+    {
+        "question": "Punctual",
+        "options": "Dakik"
+    },
+    {
+        "question": "Pure",
+        "options": "Saf"
+    },
+    {
+        "question": "Puzzled",
+        "options": "Sasirmis, kafasi karisik"
+    },
+    {
+        "question": "Puzzling",
+        "options": "Sasirtici"
+    },
+    {
+        "question": "Qualified",
+        "options": "Kalifiye"
+    },
+    {
+        "question": "Quick",
+        "options": "Çabuk, seri"
+    },
+    {
+        "question": "Rampant",
+        "options": "Sinir tanimayan"
+    },
+    {
+        "question": "Random",
+        "options": "Rastgele"
+    },
+    {
+        "question": "Rapid",
+        "options": "Hizli"
+    },
+    {
+        "question": "Rare",
+        "options": "Nadir"
+    },
+    {
+        "question": "Rational",
+        "options": "Akilli, mantikli"
+    },
+    {
+        "question": "Real",
+        "options": "Gerçek"
+    },
+    {
+        "question": "Reasonable",
+        "options": "Makul, mantikli"
+    },
+    {
+        "question": "Rebellious",
+        "options": "Isyankâr"
+    },
+    {
+        "question": "Reciprocal",
+        "options": "Karsilikli"
+    },
+    {
+        "question": "Reckless",
+        "options": "Atak, umursamayan"
+    },
+    {
+        "question": "Recurrent",
+        "options": "Tekrar eden"
+    },
+    {
+        "question": "Reducing",
+        "options": "Azalan"
+    },
+    {
+        "question": "Redundant",
+        "options": "Gereksiz, fazlalik"
+    },
+    {
+        "question": "Regal",
+        "options": "Şahane, soylu"
+    },
+    {
+        "question": "Related",
+        "options": "Alakali"
     }
 ]
