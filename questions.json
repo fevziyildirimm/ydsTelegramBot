@@ -3266,5 +3266,660 @@
     {
         "question": "Related",
         "options": "Alakali"
+    },
+
+    {
+        "question": "Abandon",
+        "options": "Terk etmek"
+    },
+    {
+        "question": "Abide by",
+        "options": "Kanuna uymak"
+    },
+    {
+        "question": "Abolish",
+        "options": "Yurürlükten kaldirmak"
+    },
+    {
+        "question": "Accept",
+        "options": "Kabul etmek"
+    },
+    {
+        "question": "Accomplish",
+        "options": "Basarmak, tamamlamak"
+    },
+    {
+        "question": "Accord",
+        "options": "Anlasmak"
+    },
+    {
+        "question": "Accumulate",
+        "options": "Birikmek"
+    },
+    {
+        "question": "Accuse sb of",
+        "options": "Birisini ile suclamak"
+    },
+    {
+        "question": "Achieve",
+        "options": "Elde etmek, basarmak"
+    },
+    {
+        "question": "Acknowledge",
+        "options": "Kabul etmek, onaylamak"
+    },
+    {
+        "question": "Adjust",
+        "options": "Ayarlamak"
+    },
+    {
+        "question": "Adjust to",
+        "options": "-e uymak"
+    },
+    {
+        "question": "Administer",
+        "options": "idare etmek, ilaç vermek"
+    },
+    {
+        "question": "Admire",
+        "options": "Hayran olmak"
+    },
+    {
+        "question": "Admit",
+        "options": "Kabul, itiraf etmek"
+    },
+    {
+        "question": "Adopt",
+        "options": "Benimsemek, evlat edinmek"
+    },
+    {
+        "question": "Advance",
+        "options": "ilerleme kaydetmek"
+    },
+    {
+        "question": "Advise",
+        "options": "Tavsiye etmek"
+    },
+    {
+        "question": "Affect",
+        "options": "Etkilemek"
+    },
+    {
+        "question": "Agree",
+        "options": "Ayni fikirde olmak"
+    },
+    {
+        "question": "Alienate",
+        "options": "Dilamak"
+    },
+    {
+        "question": "Allege",
+        "options": "iddia etmek"
+    },
+    {
+        "question": "Allow",
+        "options": "izin vermek"
+    },
+    {
+        "question": "Alter",
+        "options": "Degistirmek"
+    },
+    {
+        "question": "Amaze",
+        "options": "Şasirtmak"
+    },
+    {
+        "question": "Amplify",
+        "options": "Buyutmek"
+    },
+
+    {
+        "question": "Anticipate",
+        "options": "Beklemek, sezmek"
+    },
+    {
+        "question": "Appeal",
+        "options": "Hitap etmek, çekici gelmek, basvurmak"
+    },
+    {
+        "question": "Appear",
+        "options": "Görünmek, gibi görünmek"
+    },
+    {
+        "question": "Appear",
+        "options": "Sahneye cikmak"
+    },
+    {
+        "question": "Appreciate",
+        "options": "Takdir etmek"
+    },
+    {
+        "question": "Approve",
+        "options": "Onaylamak"
+    },
+    {
+        "question": "Argue",
+        "options": "Tartismak"
+    },
+    {
+        "question": "Arise",
+        "options": "Ortaya cikmak"
+    },
+    {
+        "question": "Ascend",
+        "options": "Cikmak, artmak"
+    },
+    {
+        "question": "Assert",
+        "options": "iddia etmek, ileri sürmek"
+    },
+    {
+        "question": "Assess",
+        "options": "Degerlendirmek"
+    },
+    {
+        "question": "Assist",
+        "options": "Yardim etmek"
+    },
+    {
+        "question": "Assume",
+        "options": "Varsaymak"
+    },
+    {
+        "question": "Assure",
+        "options": "Söz vermek, temin etmek"
+    },
+    {
+        "question": "Astonish",
+        "options": "Şaşırtmak"
+    },
+    {
+        "question": "Attribute to",
+        "options": "-e atfetmek, baglamak"
+    },
+    {
+        "question": "Augment",
+        "options": "Artirmak"
+    },
+    {
+        "question": "Authorize",
+        "options": "Yetkilendirmek"
+    },
+    {
+        "question": "Back up",
+        "options": "Desteklemek"
+    },
+    {
+        "question": "Ban",
+        "options": "Yasaklamak"
+    },
+    {
+        "question": "Bargain",
+        "options": "Pazarlik etmek"
+    },
+    {
+        "question": "Be apt to do sth",
+        "options": "Bir ey yapma egiliminde olmak"
+    },
+    {
+        "question": "Be attuned to",
+        "options": "-e uygun"
+    },
+    {
+        "question": "Be engaged in",
+        "options": "ile istigal etmek"
+    },
+    {
+        "question": "Be exposed to",
+        "options": "-e maruz kalmak"
+    },
+    {
+        "question": "Be made up of",
+        "options": "-den olusmak"
+    },
+    {
+        "question": "Be rooted in",
+        "options": "Köku -e dayanmak"
+    },
+    {
+        "question": "Be traced back",
+        "options": "-e dayandirmak"
+    },
+    {
+        "question": "Bear",
+        "options": "Katlanmak, dogurmak"
+    },
+    {
+        "question": "Become extinct",
+        "options": "Soyu tukenmek"
+    },
+    {
+        "question": "Begin",
+        "options": "Baslamak"
+    },
+    {
+        "question": "Believe in",
+        "options": "inanmak"
+    },
+    {
+        "question": "Benefit from",
+        "options": "-den faydalanmak"
+    },
+    {
+        "question": "Betray",
+        "options": "ihanet etmek"
+    },
+    {
+        "question": "Blame sb for",
+        "options": "Birisini suclamak"
+    },
+    {
+        "question": "Blend",
+        "options": "Karimak"
+    },
+    {
+        "question": "Block",
+        "options": "Engellemek, kapatmak"
+    },
+    {
+        "question": "Blossom",
+        "options": "Ciçek açmak, gelimek"
+    },
+    {
+        "question": "Boom",
+        "options": "Hizla büyumek"
+    },
+    {
+        "question": "Boost",
+        "options": "Artirma, itme"
+    },
+    {
+        "question": "Break",
+        "options": "Kirmak"
+    },
+    {
+        "question": "Break apart",
+        "options": "Bölmek"
+    },
+    {
+        "question": "Break out",
+        "options": "Patlak vermek"
+    },
+    {
+        "question": "Break up",
+        "options": "Ayrilmak, dagilmak"
+    },
+    {
+        "question": "Bring about",
+        "options": "Neden olmak"
+    },
+    {
+        "question": "Bring forward",
+        "options": "ileri sürmek"
+    },
+    {
+        "question": "Bring together",
+        "options": "Bir araya getirmek"
+    },
+    {
+        "question": "Build",
+        "options": "insa etmek"
+    },
+    {
+        "question": "Build up",
+        "options": "Birikmek, gelismek"
+    },
+    {
+        "question": "Bump into",
+        "options": "Rastlamak"
+    },
+    {
+        "question": "Buy",
+        "options": "Satin almak"
+    },
+    {
+        "question": "Call off",
+        "options": "iptal etmek"
+    },
+    {
+        "question": "Can't Stand",
+        "options": "Katlanamamak"
+    },
+    {
+        "question": "Cancel",
+        "options": "iptal etmek"
+    },
+    {
+        "question": "Carry on",
+        "options": "Sürdürmek"
+    },
+    {
+        "question": "Cause",
+        "options": "Neden olmak"
+    },
+    {
+        "question": "Cease",
+        "options": "Son vermek, bitmek"
+    },
+    {
+        "question": "Certify",
+        "options": "Onaylamak"
+    },
+    {
+        "question": "Change",
+        "options": "Degistirmek"
+    },
+    {
+        "question": "Characterize",
+        "options": "Tanimlamak"
+    },
+    {
+        "question": "Charge sb with",
+        "options": "Suç isnat etmek"
+    },
+    {
+        "question": "Cheat",
+        "options": "Hile yapmak, kopya çekmek"
+    },
+    {
+        "question": "Claim",
+        "options": "iddia etmek"
+    },
+    {
+        "question": "Clarify",
+        "options": "Açikliga kavusturmak"
+    },
+    {
+        "question": "Clash",
+        "options": "Çatismak"
+    },
+    {
+        "question": "Classify",
+        "options": "Siniflandirmak"
+    },
+    {
+        "question": "Climb",
+        "options": "Tirmanmak"
+    },
+    {
+        "question": "Coincide",
+        "options": "Tesadüf etmek"
+    },
+    {
+        "question": "Collect",
+        "options": "Toplamak"
+    },
+    {
+        "question": "Combat",
+        "options": "Savasmak"
+    },
+    {
+        "question": "Combine",
+        "options": "Birlestirmek"
+    },
+    {
+        "question": "Come across",
+        "options": "Karsilasmak"
+    },
+    {
+        "question": "Come from",
+        "options": "-den gelmek"
+    },
+    {
+        "question": "Come into",
+        "options": "Yürürlüge girmek, mirasa konmak"
+    },
+    {
+        "question": "Come out",
+        "options": "Ortaya cikmak, sökülmek"
+    },
+    {
+        "question": "Come to terms",
+        "options": "Anlasmaya varmak"
+    },
+    {
+        "question": "Come up with",
+        "options": "Bir fikir ileri sürmek"
+    },
+    {
+        "question": "Commence",
+        "options": "Baglamak"
+    },
+    {
+        "question": "Compel",
+        "options": "Zorlamak, mecbur birakmak"
+    },
+    {
+        "question": "Complete",
+        "options": "Tamamlamak"
+    },
+    {
+        "question": "Comply with",
+        "options": "Uygun olmak"
+    },
+    {
+        "question": "Comprehend",
+        "options": "Anlamak"
+    },
+    {
+        "question": "Comprise",
+        "options": "Olusturmak, içermek"
+    },
+    {
+        "question": "Conceal",
+        "options": "Gizlemek"
+    },
+    {
+        "question": "Conclude",
+        "options": "Sonuglandirmak"
+    },
+    {
+        "question": "Conclude from",
+        "options": "-den cikarim yapmak, sonuca varmak"
+    },
+    {
+        "question": "Concur",
+        "options": "Ayni fikirde olmak"
+    },
+    {
+        "question": "Confirm",
+        "options": "Onaylamak"
+    },
+    {
+        "question": "Conform to",
+        "options": "Uyum göstermek"
+    },
+    {
+        "question": "Confront",
+        "options": "Gögus germek, karI durmak"
+    },
+    {
+        "question": "Confuse",
+        "options": "Karistirmak"
+    },
+    {
+        "question": "Consent",
+        "options": "Onay vermek"
+    },
+    {
+        "question": "Consider",
+        "options": "Düsunmek, degerlendirmek"
+    },
+    {
+        "question": "Consist of",
+        "options": "Olusmak, ibaret olmak"
+    },
+    {
+        "question": "Construct",
+        "options": "insa etmek"
+    },
+    {
+        "question": "Consume",
+        "options": "Tüketmek"
+    },
+    {
+        "question": "Continue",
+        "options": "Devam etmek"
+    },
+    {
+        "question": "Contribute (to)",
+        "options": "Katkida bulunmak"
+    },
+    {
+        "question": "Cooperate",
+        "options": "isbirligi yapmak"
+    },
+    {
+        "question": "Cope with",
+        "options": "Üstesinden gelmek"
+    },
+    {
+        "question": "Count on",
+        "options": "Güvenmek"
+    },
+    {
+        "question": "Create",
+        "options": "Yaratmak"
+    },
+    {
+        "question": "Credit",
+        "options": "inanmak"
+    },
+    {
+        "question": "Curb",
+        "options": "Sinirlamak, kisitlamak"
+    },
+    {
+        "question": "Curtail",
+        "options": "Kisitlamak"
+    },
+    {
+        "question": "Damage",
+        "options": "Hasar vermek"
+    },
+    {
+        "question": "Date back",
+        "options": "'ye uzanmak"
+    },
+    {
+        "question": "Deal",
+        "options": "İlgilenmek"
+    },
+    {
+        "question": "Deal with",
+        "options": "isini görmek, ilgilenmek"
+    },
+    {
+        "question": "Debate",
+        "options": "Tartismak"
+    },
+    {
+        "question": "Deceive",
+        "options": "Kandirmak"
+    },
+    {
+        "question": "Decline",
+        "options": "Azalmak, geri cevirmek"
+    },
+    {
+        "question": "Decrease",
+        "options": "Azalmak"
+    },
+    {
+        "question": "Dedicate",
+        "options": "Adamak"
+    },
+    {
+        "question": "Deduce from",
+        "options": "Çikarim yapmak"
+    },
+    {
+        "question": "Defeat",
+        "options": "Maglup etmek"
+    },
+    {
+        "question": "Delay",
+        "options": "Geciktirmek"
+    },
+    {
+        "question": "Demolish",
+        "options": "Yikmak, tahrip etmek"
+    },
+    {
+        "question": "Demonstrate",
+        "options": "Göstermek, protesto etmek"
+    },
+    {
+        "question": "Deny",
+        "options": "inkar etmek, vermemek"
+    },
+    {
+        "question": "Depend on",
+        "options": "-e bagli olmak"
+    },
+    {
+        "question": "Depict",
+        "options": "Tasvir etmek"
+    },
+    {
+        "question": "Deplete",
+        "options": "Bitirmek, tüketmek"
+    },
+    {
+        "question": "Derive from",
+        "options": "-den türemek"
+    },
+    {
+        "question": "Descend",
+        "options": "inmek, soyundan gelmek"
+    },
+    {
+        "question": "Describe",
+        "options": "Tanimlamak"
+    },
+    {
+        "question": "Desert",
+        "options": "Kaçmak, terk etmek"
+    },
+    {
+        "question": "Destroy",
+        "options": "Yikmak, yok etmek"
+    },
+    {
+        "question": "Detect",
+        "options": "Kesfetmek, bulmak"
+    },
+    {
+        "question": "Deteriorate",
+        "options": "Kötuye gitmek"
+    },
+    {
+        "question": "Determine",
+        "options": "Karar vermek, belirlemek"
+    },
+    {
+        "question": "Devastate",
+        "options": "Harap etmek"
+    },
+    {
+        "question": "Develop",
+        "options": "Gelimek, gelistirmek"
+    },
+    {
+        "question": "Devise",
+        "options": "icat etmek, tasarlamak"
+    },
+    {
+        "question": "Devote",
+        "options": "Adamak"
+    },
+    {
+        "question": "Diagnose",
+        "options": "Teshis etmek"
+    },
+    {
+        "question": "Die out",
+        "options": "Nesli tükenmek"
     }
+
 ]
