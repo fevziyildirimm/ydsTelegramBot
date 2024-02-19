@@ -3,7 +3,8 @@ const TelegramBot = require('node-telegram-bot-api');
 const schedule = require('node-schedule');
 const moment = require('moment-timezone');
 const express = require('express');
-const fs = require('fs').promises;  // fs.promises kullanılıyor
+const fs = require('fs').promises; 
+const fs2 = require('fs');  
 const path = require('path');
 const app = express();
 
@@ -19,7 +20,7 @@ app.listen(process.env.PORT || 3000, () => {
 const bot = new TelegramBot(process.env.API_TOKEN, { polling: true });
 
 function getRandomQuestion() {
-  const questions = JSON.parse(fs.readFileSync('questions.json'));
+  const questions = JSON.parse(fs2.readFileSync('questions.json'));
   const randomIndex = Math.floor(Math.random() * questions.length);
   return questions[randomIndex];
 }
@@ -93,7 +94,25 @@ async function sendQuestion() {
 
   await bot.sendPoll(chatId, question, answers, pollOptions);
 }
+bot.onText(/\/soru/, async (msg) => {
+  for (let index = 0; index < 10; index++) {
+    const { question, options, answer } = getRandomQuestion();
+    const answers = [getRandomQuestion().options, getRandomQuestion().options];
+    const index = (answers.length + 1) * Math.random();
+    answers.splice(index | 0, 0, options)
+    const pollOptions = {
+      is_anonymous: false,
+      allows_multiple_answers: false,
+      correct_option_id: index,
+      type: "quiz"
+    };
+    await sleep(1500);
 
+
+    bot.sendPoll(msg.chat.id, question, answers, pollOptions);
+  }
+  
+});
 bot.onText(/\/yds/, async (msg) => {
   for (let index = 0; index < 4; index++) {
     const answers = ["A", "B", "C", "D", "E"];
